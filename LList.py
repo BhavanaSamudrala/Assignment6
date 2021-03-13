@@ -2,6 +2,7 @@
 #
 #
 #
+#
 class node(object):
     """ A version of the Node class with public attributes.
         This makes the use of node objects a bit more convenient for 
